@@ -1,2 +1,2 @@
 ini adalah file2
-menambah isi file1 cabang2
+menambah isi file2 menggunakan cabang2
