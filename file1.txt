@@ -1,2 +1,0 @@
-ini adalah file1
-menambah isi file1 menggunakan cabang1
